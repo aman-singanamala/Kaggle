@@ -9,3 +9,5 @@
 <br><hr>
 [5. K Fold Cross Validation ](https://www.kaggle.com/code/saman1708/k-fold-cross-validation)
 <br><hr>
+[6. Wine quality](https://www.kaggle.com/code/saman1708/wine-quality/notebook)
+<br><hr>
